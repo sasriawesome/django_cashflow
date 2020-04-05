@@ -1,2 +1,2 @@
-# django_cashflow
-Django Cash Flow management
+# django Cashflow
+Django Cash Flow is simple cash flow management app
